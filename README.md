@@ -70,10 +70,8 @@ This project aims to analyze product return patterns in an e-commerce dataset an
 
 **Preetham Reddy**  
 Email: kovvuripreethamreddy@gmail.com  
-GitHub: [Your GitHub Profile Link]
+GitHub: https://github.com/preetham2203
 
 ---
 
-## ✅ Status
 
-✔️ **Project Complete and Ready for Submission**
